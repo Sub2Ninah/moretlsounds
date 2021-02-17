@@ -30,7 +30,6 @@
     "onpace",
     "pause",
     "prespin",
-    "prespinmini",
     "ready",
     "rotate",
     "skip",
@@ -44,8 +43,7 @@
     "tspin2",
     "tspin2mini",
     "tspin3",
-    "tspin3mini",
-    "wallkick"
+    "tspin3mini"
   ],
   "ren": [
     1,

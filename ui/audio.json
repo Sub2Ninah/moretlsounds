@@ -55,6 +55,11 @@
           "value": "standard"
         },
         {
+          "label": "Tetris Battle",
+          "fixedText": true,
+          "value": "tb"
+        },
+        {
           "label": "TGM3",
           "fixedText": true,
           "value": "tgm3"

@@ -1,5 +1,4 @@
 {
-  "usesReadyGoVoices": true,
   "files": [
     "alarm",
     "bravo",
@@ -8,6 +7,7 @@
     "erase2",
     "erase3",
     "erase4",
+    "excellent"
     "garbagereceive",
     "go",
     "harddrop",
@@ -21,6 +21,7 @@
     "ready",
     "rotate",
     "start",
+    "topoutwarning",
     "land",
     "tspinbonus",
     "victory"

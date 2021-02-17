@@ -1,15 +1,17 @@
 {
   "files": [
     "b2b_erase4",
-    "bravo",
+    "b2b_tspin",
     "erase4",
     "erasenot4",
     "excellent",
     "garbage",
+    "go",
     "harddrop",
     "hold",
     "ko",
-    "levelup",
+    "levelupmajor",
+    "levelupminor",
     "locknohd",
     "move",
     "pause",
@@ -21,8 +23,6 @@
   ],
   "ren": [
     1,
-    5,
-    10,
-    15
+    8
   ]
 }

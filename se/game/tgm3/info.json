@@ -1,7 +1,6 @@
 {
   "files": [
     "alarm",
-    "b2b_erase4",
     "bravo",
     "collapse",
     "erase4",
@@ -11,8 +10,7 @@
     "initialhold",
     "initialrotate",
     "land",
-    "levelupmajor",
-    "levelupminor",
+    "levelup",
     "lock",
     "ready",
     "start",

@@ -125,6 +125,11 @@
           "value": "nullpomino"
         },
         {
+          "label": "Attack+EB",
+          "fixedText": true,
+          "value": "attack"
+        },
+        {
           "label": "TOJ",
           "fixedText": true,
           "value": "toj"

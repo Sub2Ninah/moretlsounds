@@ -200,6 +200,11 @@
           "value": "nina"
         },
         {
+          "label": "Debbie",
+          "fixedText": true,
+          "value": "tf"
+        },
+        {
           "string": "offOption",
           "value": "off",
           "langOverride": "mode-options"

@@ -125,6 +125,11 @@
           "value": "nullpomino"
         },
         {
+          "label": "Akira",
+          "fixedText": true,
+          "value": "akira"
+        },
+        {
           "label": "TOJ",
           "fixedText": true,
           "value": "toj"
@@ -163,6 +168,11 @@
           "label": "NullpoMino",
           "fixedText": true,
           "value": "nullpomino"
+        },
+        {
+          "label": "Akira",
+          "fixedText": true,
+          "value": "akira"
         },
         {
           "string": "offOption",

@@ -1,27 +1,34 @@
 {
   "files": [
-    "erase1",
-    "erase2",
-    "erase3",
+    "alarm",
+    "b2b_erase4",
+    "bravo",
+    "collapse",
     "erase4",
+    "erasenot4",
     "excellent",
-    "gameover",
+    "garbage",
+    "garbagefly",
+    "garbagereceive",
+    "garbagesend",
     "go",
     "harddrop",
     "hold",
     "ko",
     "land",
     "levelup",
+    "lockforce",
     "locknohd",
     "move",
+    "prespin",
     "ready",
     "rotate",
+    "softdrop",
     "start",
     "step",
-    "tspin0",
-    "tspin1",
-    "tspin2",
-    "tspin3"
+    "topoutwarning",
+    "tspin",
+    "tspin0"
   ],
   "ren": [
     1,
@@ -30,6 +37,16 @@
     4,
     5,
     6,
-    7
-  ]
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "nextSoundbank": "tetrio"
 }

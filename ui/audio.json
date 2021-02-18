@@ -60,6 +60,16 @@
           "value": "tb"
         },
         {
+          "label": "TF",
+          "fixedText": true,
+          "value": "tf"
+        },
+        {
+          "label": "TF 8-bit",
+          "fixedText": true,
+          "value": "tf8"
+        },
+        {
           "label": "TGM3",
           "fixedText": true,
           "value": "tgm3"

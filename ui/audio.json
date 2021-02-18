@@ -55,11 +55,6 @@
           "value": "standard"
         },
         {
-          "label": "Techmino",
-          "fixedText": true,
-          "value": "techmino"
-        },
-        {
           "label": "BATTLE FB",
           "fixedText": true,
           "value": "tb"

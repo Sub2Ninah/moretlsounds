@@ -1,6 +1,7 @@
 {
   "files": [
     "alarm",
+    "b2b_erase4",
     "bravo",
     "collapse",
     "erase4",
@@ -10,7 +11,8 @@
     "initialhold",
     "initialrotate",
     "land",
-    "levelup",
+    "levelupmajor",
+    "levelupminor",
     "lock",
     "ready",
     "start",
@@ -18,6 +20,8 @@
     "tspin",
     "tspin0"
   ],
-  "ren": [],
+  "ren": [
+    "7"
+  ],
   "nextSoundbank": "tgm3"
 }

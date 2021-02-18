@@ -55,7 +55,7 @@
           "value": "standard"
         },
         {
-          "label": "Tetris Battle",
+          "label": "BATTLE FB",
           "fixedText": true,
           "value": "tb"
         },
@@ -110,7 +110,7 @@
           "value": "nullpomino"
         },
         {
-          "label": "TETRIS ONLINE POLAND",
+          "label": "TOJ",
           "fixedText": true,
           "value": "toj"
         },

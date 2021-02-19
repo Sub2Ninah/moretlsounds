@@ -15,6 +15,7 @@
     "lock",
     "ready",
     "start",
+    "step",
     "topoutwarning",
     "tspin",
     "tspin0"

@@ -59,6 +59,12 @@
           "fixedText": true,
           "value": "tb"
         },
+
+        {
+          "label": "BATTLE PLUS",
+          "fixedText": true,
+          "value": "battleplus"
+        },
         {
           "label": "TF",
           "fixedText": true,
@@ -73,6 +79,11 @@
           "label": "TGM3",
           "fixedText": true,
           "value": "tgm3"
+        },
+        {
+          "label": "TGM ACE",
+          "fixedText": true,
+          "value": "ace"
         },
         {
           "label": "T99",
@@ -143,6 +154,11 @@
           "label": "N-Blox",
           "fixedText": true,
           "value": "nblox"
+        },
+        {
+          "label": "MattMayuga",
+          "fixedText": true,
+          "value": "simp"
         }
       ],
       "setting": "soundbank",

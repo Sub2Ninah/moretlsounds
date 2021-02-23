@@ -23,8 +23,10 @@
     "start",
     "step",
     "topoutwarning",
-    "tspin",
-    "tspin0"
+    "tspin0",
+    "tspin1",
+    "tspin2",
+    "tspin3"
   ],
   "ren": [],
   "nextSoundbank": "tgm3"

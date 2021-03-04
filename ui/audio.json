@@ -131,9 +131,9 @@
           "value": "tetrio"
         },
         {
-          "label": "Hangame",
+          "label": "T99 GB",
           "fixedText": true,
-          "value": "hangame"
+          "value": "retro99"
         },
         {
           "label": "NullpoMino",

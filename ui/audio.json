@@ -131,11 +131,6 @@
           "value": "tetrio"
         },
         {
-          "label": "T99 GB",
-          "fixedText": true,
-          "value": "retro99"
-        },
-        {
           "label": "NullpoMino",
           "fixedText": true,
           "value": "nullpomino"

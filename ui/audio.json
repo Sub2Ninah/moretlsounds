@@ -206,6 +206,11 @@
           "value": "tf"
         },
         {
+          "label": "[EN] Alexey Pajitnov",
+          "fixedText": true,
+          "value": "tf"
+        },
+        {
           "label": "[EN] Sora",
           "fixedText": true,
           "value": "soraen"

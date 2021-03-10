@@ -201,6 +201,11 @@
       "action": "select",
       "selectOptions": [
         {
+          "label": "[EN] Debbie",
+          "fixedText": true,
+          "value": "tf"
+        },
+        {
           "label": "[EN] Sora",
           "fixedText": true,
           "value": "soraen"

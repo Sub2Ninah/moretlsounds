@@ -18,7 +18,8 @@
     "move",
     "pause",
     "rotate",
-    "tspin"
+    "tspin",
+    "tspin0"
   ],
   "ren": []
 }

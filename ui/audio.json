@@ -221,6 +221,11 @@
           "value": "ariahivo"
         },
         {
+          "label": "[JA] TOJ",
+          "fixedText": true,
+          "value": "toj"
+        },
+        {
           "label": "[JA] Sora",
           "fixedText": true,
           "value": "soraja"
